@@ -1,0 +1,6 @@
+.venv
+.winvenv
+test1*
+testlinux*
+build
+bin/*/test*
